@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Adwaita Sans",
+  "textFontFamily": "DejaVu Sans",
+  "baseFontSizeAction": true,
+  "accentColor": "#1868c3",
+  "showRibbon": true
+}
