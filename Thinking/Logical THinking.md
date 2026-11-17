@@ -17,4 +17,4 @@ Before solving the problem we need to indentify 5 things :
 | Edge Cases  | Which valid case may need special care ?           |
 English matters a lot in problme small words like : **at least, at most, greater than, equal to, only if and exactly**
 
-![](image/Pasted%20image%2020261117201511.png)
+![](../image/Pasted%20image%2020261117202848.png)
